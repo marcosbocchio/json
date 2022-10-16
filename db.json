@@ -1,4 +1,5 @@
-[{
+{
+"users" : [{
     "id": 1,
     "first_name": "Mikael",
     "last_name": "Duddin",
@@ -139,3 +140,4 @@
     "gender": "Female",
     "ip_address": "15.0.62.41"
   }]
+}
